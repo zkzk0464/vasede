@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Jun 2023 13:38:22 at https://pornvasde.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pornvasde.com/ -O1 "C:\Users\LENOVO\Desktop\VASDE\vasDE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:38:45	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link s3t3d2y8.ackcdn.net/widget-branding-logo.png (from https://pornvasde.com/)
+13:38:45	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link s3t3d2y8.ackcdn.net/widget-branding-logo-hover.png (from https://pornvasde.com/)
+13:38:45	Error: 	"Not Found" (404) at link https://pornvasde.com/lively-heart-8dc2/ (from https://pornvasde.com/in_css_7742114ce2a97e55baed4632b992ce71.static.)
+13:38:45	Error: 	"Not Found" (404) at link https://pornvasde.com/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://pornvasde.com/edf7e8cd09bee7c8f3970c747eb6a095.static.css)
+13:38:45	Error: 	"Not Found" (404) at link https://pornvasde.com/fonts/fontawesome-webfont.eot? (from https://pornvasde.com/edf7e8cd09bee7c8f3970c747eb6a095.static.css)
+13:38:45	Warning: 	File not parsed, looks like binary: https://pornvasde.com/in_css_58aaa2a3cd53c9d6d647f2b059fd7e5a.static.0
+13:38:45	Error: 	"Not Found" (404) at link https://pornvasde.com/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://pornvasde.com/edf7e8cd09bee7c8f3970c747eb6a095.static.css)
+13:38:45	Error: 	"Not Found" (404) at link https://pornvasde.com/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://pornvasde.com/edf7e8cd09bee7c8f3970c747eb6a095.static.css)
+13:38:45	Error: 	"Not Found" (404) at link https://pornvasde.com/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://pornvasde.com/edf7e8cd09bee7c8f3970c747eb6a095.static.css)
+13:38:45	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link s3t3d2y8.ackcdn.net/widget-branding-logo.png (from https://pornvasde.com/)
+13:38:45	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link s3t3d2y8.ackcdn.net/widget-branding-logo-hover.png (from https://pornvasde.com/)
+13:38:45	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link s3t3d2y8.ackcdn.net/widget-branding-logo.png (from https://pornvasde.com/)
+13:38:45	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link s3t3d2y8.ackcdn.net/widget-branding-logo-hover.png (from https://pornvasde.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 81 links scanned, 68 files written (7992612 bytes overall) [7498373 bytes received at 326016 bytes/sec], 712466 bytes transferred using HTTP compression in 22 files, ratio 27%, 10.7 requests per connection
+(8 errors, 5 warnings, 0 messages)
